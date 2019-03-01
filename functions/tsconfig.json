@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "paths": { "*": ["types/*"] },
+    "baseUrl": ".",
+    "paths": { "*": ["types/*"] },
+    "baseUrl": ".",
+    "paths": { "*": ["types/*"] },
+    "baseUrl": ".",
+    "paths": { "*": ["types/*"] },
+    "baseUrl": ".",
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+  
+    "outDir": "lib",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2015"
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}
